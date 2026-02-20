@@ -1,4 +1,4 @@
-# Artemie Turcanu
+# Artemie Țurcanu
 Data Analyst — SQL • Experimentation • BI
 
 Focused on retention, funnel optimisation, A/B testing, and KPI analytics.
