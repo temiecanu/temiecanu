@@ -1,11 +1,16 @@
 # Artemie Țurcanu
-Data Analyst — SQL • Experimentation • BI
+
+Data Analyst – SQL • Experimentation • BI
 
 Focused on retention, funnel optimisation, A/B testing, and KPI analytics.
 
-Built 10+ business-focused projects using SQL, Python, and Power BI, covering:
+My portfolio demonstrates how I approach real business problems through data, using SQL, Python, and Power BI:
 - Cohort and monetisation analysis
 - Dashboard development and KPI reporting
 - ETL workflows and data modelling
 
-Portfolio: temiecanu.github.io
+## Portfolio
+
+Projects built to simulate real business scenarios and analytical tasks I encountered in my work.
+
+temiecanu.github.io
