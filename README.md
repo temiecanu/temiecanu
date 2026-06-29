@@ -11,6 +11,6 @@ My portfolio demonstrates how I approach real business problems through data, us
 
 ## Portfolio
 
-Projects built to simulate real business scenarios and analytical tasks I encountered in my work.
+Projects built to simulate real business scenarios and analytical tasks I encountered in my work, showcasing practical solutions to real business challenges.
 
 [temiecanu.github.io](https://temiecanu.github.io/)
